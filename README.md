@@ -22,3 +22,6 @@ Unless you reset his memory, it will never forget what it has learned.
 
 2. LearnsFromEachOther
 In this program 2 AIs learn from each other. You can run this program to train them. When you decide that training is enough, you can use memory txt files for the first program and test them against you.
+
+
+![image](https://user-images.githubusercontent.com/68668304/122187269-916aa100-ce97-11eb-947c-53c402acd4e2.png)
